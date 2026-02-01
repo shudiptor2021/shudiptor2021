@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shudipto Roy</h1>
-<h3 align="center">A passionate mern developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [https://shudipto-roy.vercel.app/](https://shudipto-roy.vercel.app/)
 
