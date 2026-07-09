@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shudipto Roy</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://shudipto-roy.vercel.app/](https://shudipto-roy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-blush-five.vercel.app/](https://new-portfolio-blush-five.vercel.app/)
 
-- 💬 Ask me about **javascript, typescript, reactjs, nextjs, nodejs, express, mongodb, mysql, prisma**
+- 💬 Ask me about **javascript, typescript, reactjs, nextjs, nodejs, express, mongodb, mysql, prisma, rag, mcp server**
 
 - 📫 How to reach me **royshudipto318@gmail.com**
 
